@@ -2,6 +2,10 @@
   "name": "simple-create-lwc",
   "displayName": "simple-create-lwc",
   "description": "A simple way to create LWC component boilerplate.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/austin-guevara/simple-create-lwc"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
