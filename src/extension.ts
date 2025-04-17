@@ -47,7 +47,7 @@ export function activate(context: vscode.ExtensionContext) {
         const fileOptions = await vscode.window.showQuickPick(
           ["JS", "HTML", "CSS"].map((label) => ({
             label,
-            picked: label !== "CSS",
+            picked: true,
           })),
           {
             canPickMany: true,
