@@ -1,6 +1,6 @@
 # simple-create-lwc README
 
-A simple way to create LWC component boilerplate.
+A VSCode extension that provides a simple way to create LWC component boilerplate.
 
 ## Features
 
